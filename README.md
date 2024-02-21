@@ -1,0 +1,1 @@
+	Zwei Regelungsschemata werden in diesem Experiment implementiert, um die Temperatur im Acrylglasrohr zu steuern. Das erste Regelungsschema basiert auf einem Ein-aus-Regler, der auch als Zweipositionsregelung bekannt ist.
